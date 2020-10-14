@@ -1,12 +1,24 @@
-# omni_rates_bot
-Multiplatform chatbot for conversion rates
+# README
 
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-## Platforms
+Things you may want to cover:
 
-We are going to implement the same bot to 
+* Ruby version
 
-- [ ] Telegram
-- [ ] Discord
-- [ ] Facebook Messenger
-- [ ] Whatsapp
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
